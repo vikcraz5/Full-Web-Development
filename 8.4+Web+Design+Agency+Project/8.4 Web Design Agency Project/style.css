@@ -22,11 +22,15 @@ footer {
 .tile-image {
   float: left;
   height: 200px;
-  margin: 10%;
+  margin-right: 20px;
 }
 .main >.left{
 
   float: left;
+  
+}
+p{
+  margin-right: 80px;
   
 }
 
