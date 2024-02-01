@@ -21,12 +21,13 @@ footer {
 
 .tile-image {
   float: left;
-  height:200px;
-  margin-right: 45%;
+  height: 200px;
+  margin: 10%;
 }
+.main >.left{
 
-.left {
   float: left;
+  
 }
 
 .right {
